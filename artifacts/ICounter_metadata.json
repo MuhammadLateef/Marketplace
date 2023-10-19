@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "sqaure",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"CounterInterface.sol": "ICounter"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"CounterInterface.sol": {
+			"keccak256": "0xd1af7a2ebbdf34d1dee50a9282a3783e8e1174efe2779ee16f9409884649078f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cea79690ac11cfda06a3221cee965f6b220f0eeda53a1f54eed87fdbbe5246de",
+				"dweb:/ipfs/Qmaye4Bn4J7JnHVPe98NCueW8QQS1CE2C8c6yd5d4mEd7x"
+			]
+		}
+	},
+	"version": 1
+}
